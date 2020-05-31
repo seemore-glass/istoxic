@@ -1,6 +1,6 @@
 {
-  "name": "toxicity-check",
-  "short_name": "toxicity-check",
+  "name": "istoxic",
+  "short_name": "istoxic",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
